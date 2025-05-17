@@ -28,7 +28,7 @@ align-items: center;
 .logo {
 font-weight: bold;
 font-size: 1.6rem;
-color: #5a6b78;
+color: #1e2429;
 }
 
 nav ul {
@@ -63,13 +63,13 @@ max-width: 720px;
 
 .hero h1 {
 font-size: 2.8rem;
-color: #4a4a4a;
+color: #020202;
 margin-bottom: 1rem;
 }
 
 .tagline {
 font-size: 1.1rem;
-color: #666;
+color: #3b3b3b;
 margin-bottom: 2rem;
 }
 
@@ -89,7 +89,7 @@ text-align: center;
 .books-main h1 {
 font-size: 2rem;
 margin-bottom: 2rem;
-color: #444;
+color: #000000;
 }
 
 .book-grid {
@@ -114,20 +114,20 @@ transform: translateY(-4px);
 
 .card h2 {
 font-size: 1.25rem;
-color: #333;
+color: #000000;
 margin-bottom: 0.5rem;
 }
 
 .card p {
 font-size: 0.95rem;
-color: #555;
+color: #000000;
 margin-bottom: 1rem;
 }
 
 .card a {
 text-decoration: none;
 font-weight: bold;
-color: #5d9b9b;
+color: #417999;
 }
 
 .card a:hover {
@@ -137,8 +137,8 @@ text-decoration: underline;
 /* Footer */
 footer {
 background: #f6f6f6;
-padding: 1rem 0;
+padding: 10rem 0;
 font-size: 0.9rem;
 text-align: center;
-color: #888;
+color: #3d3d3d;
 }
